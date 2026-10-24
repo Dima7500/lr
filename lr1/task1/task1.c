@@ -16,7 +16,7 @@ status_t parse_int(const char *str, long long *result) {
         return STATUS_ERR_NULL_ARG;
     }
     char *end;
-    long long value = strtoll(str, &end, 10);
+    long value = strtol(str, &end, 10);
 
     if (end == str || *end != '\0') {
         return STATUS_ERR_INVALID;

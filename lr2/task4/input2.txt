@@ -1,0 +1,8 @@
+7 4700000000
+system_backup.img 2147483648 90
+photos_2025.zip 1288490188 70
+projects.tar.gz 943718400 85
+music.flac 3221225472 40
+documents.7z 52428800 60
+movies.mkv 4294967296 50
+mail_archive.pst 734003200 45

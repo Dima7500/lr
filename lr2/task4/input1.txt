@@ -1,0 +1,6 @@
+5 10
+report.docx 5 10
+photo.jpg 4 40
+video.mp4 6 30
+db.sql 3 50
+notes.txt 1 5

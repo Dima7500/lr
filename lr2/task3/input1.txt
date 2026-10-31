@@ -1,0 +1,8 @@
+The cat sat on the mat.
+A concatenation of cats: cat, cat!
+	Tab	separated 	line
+aaaa
+
+end of line
+start of next line
+
